@@ -1,4 +1,4 @@
-Shader "SG/Texture/Transparent Colored Stencil"
+Shader "SG/Texture/Unlit/TextureStencil"
 {
 	Properties
 	{

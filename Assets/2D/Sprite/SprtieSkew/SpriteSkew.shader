@@ -1,4 +1,4 @@
-﻿Shader "SG/Sprite/SpriteSkewShader"
+﻿Shader "SG/Sprite/Unlit/SpriteSkew"
 {
 	Properties
 	{
