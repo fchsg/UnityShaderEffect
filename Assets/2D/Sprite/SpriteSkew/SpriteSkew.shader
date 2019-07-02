@@ -1,4 +1,4 @@
-﻿Shader "SG/Sprite/Unlit/SpriteSkew"
+﻿Shader "SG/Unlit/Sprite/SpriteSkew"
 {
 	Properties
 	{
@@ -49,6 +49,7 @@
 				fixed4 _Color;
 				float _HorizontalSkew;
 				float _VerticalSkew;
+				
 				v2f vert(appdata_t IN)
 				{
 					v2f OUT;

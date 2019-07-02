@@ -1,4 +1,4 @@
-Shader "SG/Texture/Unlit/TextureStencil"
+Shader "SG/Unlit/Texture/TextureStencil"
 {
 	Properties
 	{
@@ -75,7 +75,7 @@ Shader "SG/Texture/Unlit/TextureStencil"
                 fixed stencilA = tex2D(_StencilTex, IN.texcoord).a;
                 if(stencilA > 0)  
                 {  
-                   col.rgb = dot(col.rgb, fixed3(0.299, 0.587, 0.114)); //gray
+                   col.rgb = dot(col.rgb, fixed3(0.299, 0.587, 0.114)); //grey
                 }  
                 else  
                 {  
