@@ -10,9 +10,11 @@ Unity 2018.4.xxx
 
 ### SpriteGrey
 
-### ImageGrey
+### SpriteOutline
 
 ### SprtieSkew
+
+### ImageGrey
 
 ### TextureStencil
 
