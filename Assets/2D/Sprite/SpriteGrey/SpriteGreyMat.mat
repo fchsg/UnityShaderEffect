@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SpriteGreyMat
-  m_Shader: {fileID: 4800000, guid: 86601c6a48292e44789cb39ecc38708a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8fd90bf8574ae32449935f95fa01c022, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -69,7 +69,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HorizontalSkew: 0.06
+    - _HorizontalSkew: 0.05
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1

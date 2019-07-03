@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 1339009410}
   - component: {fileID: 1339009409}
   m_Layer: 0
-  m_Name: SpriteSkew
+  m_Name: SpritGrey
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
