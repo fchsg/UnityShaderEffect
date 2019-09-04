@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/2D/Sprite/SpriteGrey/TestSpriteGrey.unity
-    guid: 5705f0650a021ed45980d6aae7f707bd
+  m_Scenes: []
   m_configObjects: {}
