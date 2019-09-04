@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace _2D.Sprite.SpriteOutline
+namespace _2D.Unlit.Sprite.SpriteOutline
 {
     public class SpriteOutlineMat : Material
     {
@@ -25,7 +25,7 @@ namespace _2D.Sprite.SpriteOutline
             if (instancingEnabled) enableInstancing = true;
         }
 
-        public static Material GetSharedFor (SpriteOutline spriteGlow)
+        public static Material GetSharedFor (_2D.Sprite.SpriteOutline.SpriteOutline spriteGlow)
         {
             foreach (var t in sharedMaterials)
             {

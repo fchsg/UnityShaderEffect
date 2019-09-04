@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using _2D.Unlit.Sprite.SpriteOutline;
+using UnityEngine;
 
 namespace _2D.Sprite.SpriteOutline
 {
