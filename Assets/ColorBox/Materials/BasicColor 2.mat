@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicColor 2
+  m_Shader: {fileID: 4800000, guid: 5e5b1ea4ab96d4d62916cd804fe4fae1, type: 3}
+  m_ShaderKeywords: _BACK_COLOR_SOLID _BOTTOM_COLOR_ON _BOTTOM_COLOR_SOLID _FADE_NONE
+    _FRONT_COLOR_GRADIENT _LEFT_COLOR_GRADIENT _RIGHT_COLOR_GRADIENT _TOP_COLOR_GRADIENT
+    _TOP_COLOR_ON _UV_SPACE_OBJECT _WORLDSPACE_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Ambient: 0
+    - _AmbientPower: 1
+    - _BACK_COLOR: 1
+    - _BOTTOM_COLOR: 1
+    - _BackColorPosition3: 0
+    - _BackColorRotation: 0
+    - _BottomColorPosition3: 0
+    - _BottomColorRotation: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DebugUV: 0
+    - _DetailNormalMapScale: 1
+    - _Diffuse: 0
+    - _DiffusePower: 1
+    - _DstBlend: 0
+    - _FADE: 0
+    - _FRONT_COLOR: 2
+    - _FadeFog: 0
+    - _FrontColorPosition3: 0
+    - _FrontColorRotation: 0
+    - _Glossiness: 0.5
+    - _LEFT_COLOR: 2
+    - _LIGHTMAP: 0
+    - _LeftColorPosition3: 0
+    - _LeftColorRotation: 0
+    - _LightmapPower: 1
+    - _Metallic: 0
+    - _MixColor: 0
+    - _MixColorPower: 0.5
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RIGHT_COLOR: 2
+    - _RightColorPosition3: 0
+    - _RightColorRotation: 0
+    - _Shadow: 0
+    - _ShadowPower: 0.5
+    - _Shininess: 0.7
+    - _Specular: 0
+    - _SrcBlend: 1
+    - _TOP_COLOR: 2
+    - _TopColorPosition3: 0
+    - _TopColorRotation: 0.62
+    - _UVSec: 0
+    - _UV_SPACE: 0
+    - _WorldSpace: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BackColor: {r: 0.082, g: 1, b: 0.514, a: 1}
+    - _BackColor1: {r: 0.082, g: 1, b: 0.514, a: 1}
+    - _BackColor2: {r: 1, g: 0.082, b: 0.624, a: 1}
+    - _BackColor3: {r: 1, g: 0.082, b: 0.624, a: 1}
+    - _BackColorPosition: {r: 0, g: 1, b: 0, a: 1}
+    - _BottomColor: {r: 0, g: 0.835, b: 1, a: 1}
+    - _BottomColor1: {r: 0.667, g: 0.851, b: 0.937, a: 1}
+    - _BottomColor2: {r: 0.29, g: 0.8, b: 0.2, a: 1}
+    - _BottomColor3: {r: 0.29, g: 0.8, b: 0.2, a: 1}
+    - _BottomColorPosition: {r: 0, g: 1, b: 0, a: 1}
+    - _BoundScale: {r: 0.50000006, g: 1, b: 0.5000001, a: 0}
+    - _CenterOffset: {r: 0.000000059604645, g: 0, b: -0.00000008940697, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DefaultColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    - _DiffuseColor: {r: 0.957, g: 1, b: 0.686, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FadeColor: {r: 1, g: 0.082, b: 0.624, a: 1}
+    - _FadePower: {r: 0, g: 1, b: 0, a: 1}
+    - _FrontColor: {r: 0.667, g: 0.851, b: 0.937, a: 1}
+    - _FrontColor1: {r: 0.667, g: 0.851, b: 0.937, a: 1}
+    - _FrontColor2: {r: 0.29, g: 0.8, b: 0.2, a: 1}
+    - _FrontColor3: {r: 0.29, g: 0.8, b: 0.2, a: 1}
+    - _FrontColorPosition: {r: 0, g: 1, b: 0, a: 1}
+    - _LeftColor: {r: 0.765, g: 0.522, b: 0.459, a: 1}
+    - _LeftColor1: {r: 0.765, g: 0.522, b: 0.459, a: 1}
+    - _LeftColor2: {r: 0.98, g: 0.859, b: 0.706, a: 1}
+    - _LeftColor3: {r: 0.98, g: 0.859, b: 0.706, a: 1}
+    - _LeftColorPosition: {r: 0, g: 1, b: 0, a: 1}
+    - _MaxPos: {r: 0, g: 0, b: 0, a: 1}
+    - _MinPos: {r: 0, g: 0, b: 0, a: 1}
+    - _RightColor: {r: 0.937, g: 0.765, b: 1, a: 1}
+    - _RightColor1: {r: 0.93297875, g: 0.75, b: 1, a: 1}
+    - _RightColor2: {r: 0.737, g: 0.071, b: 0.984, a: 1}
+    - _RightColor3: {r: 0.737, g: 0.071, b: 0.984, a: 1}
+    - _RightColorPosition: {r: 0, g: 1, b: 0, a: 1}
+    - _ShadowColor: {r: 0.6, g: 0.5, b: 0.5, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TopColor: {r: 0.8301887, g: 0.09789959, b: 0.09789959, a: 1}
+    - _TopColor1: {r: 0.15686274, g: 0.94509804, b: 0.9057254, a: 1}
+    - _TopColor2: {r: 0.8, g: 0.2, b: 0.29226342, a: 1}
+    - _TopColor3: {r: 0.8, g: 0.2, b: 0.37142792, a: 1}
+    - _TopColorPosition: {r: 0.21, g: 0.7493858, b: 0, a: 1}
