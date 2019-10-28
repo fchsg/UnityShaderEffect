@@ -1,6 +1,6 @@
 # UnityShaderEffect
 Unity shader effect of commonly used
-Unity 2018.4.xxx
+Unity 2018.4.x
 
 ### namespace SG
 
