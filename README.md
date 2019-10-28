@@ -20,6 +20,8 @@ Unity 2018.4.xxx
 
 ### Line Gradient
 
+### Mobile Bloom Effect
+
 
 
 
