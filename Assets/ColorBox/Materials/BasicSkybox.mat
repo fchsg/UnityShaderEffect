@@ -28,11 +28,11 @@ Material:
     - _BG_COLOR: 1
     - _BgColorIntensity: 1.32
     - _BgColorPosition3: 0
-    - _BgColorRotation: 1.17
+    - _BgColorRotation: 1.06
     - _SCREENSPACE: 0
     m_Colors:
     - _BgColor: {r: 0.957, g: 1, b: 0.686, a: 1}
-    - _BgColor1: {r: 0.81425816, g: 0.16862744, b: 0.8784314, a: 1}
+    - _BgColor1: {r: 0.16862744, g: 0.8784314, b: 0.39016497, a: 1}
     - _BgColor2: {r: 0.27058828, g: 0.39077094, b: 1, a: 1}
-    - _BgColor3: {r: 0.05339978, g: 0.5980209, b: 0.754717, a: 1}
+    - _BgColor3: {r: 0.5689801, g: 0.054901976, b: 0.7529412, a: 1}
     - _BgColorPosition: {r: 0, g: 1, b: 0, a: 1}
