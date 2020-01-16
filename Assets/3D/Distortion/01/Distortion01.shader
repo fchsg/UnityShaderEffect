@@ -1,4 +1,4 @@
-﻿Shader "SG/3D/DistortionShader" 
+﻿Shader "SG/3D/Distortion01"
 {
 Properties {
 
