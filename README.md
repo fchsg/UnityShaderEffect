@@ -49,6 +49,13 @@ Unity 2018.4.x
 
 ### Mobile Bloom Effect
 
+![bloom_0](images/bloom_0.PNG)
+![bloom_1](images/bloom_1.PNG)
+
+### Color Box Effect
+
+![colorBox_0](images/colorBox_0.PNG)
+![colorBox_1](images/colorBox_1.PNG)
 
 # Reference
 
