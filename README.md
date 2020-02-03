@@ -34,10 +34,20 @@ Unity 2018.4.x
 
 ![Line Gradient](images/LineGradient.PNG)
 
+
+## 3D
+
+### Distortion
+
+![Distortion01](images/Distortion01.gif)
+
+### RimLight
+
+![RimLight03](images/RimLight03.PNG)
+
 ## PostEffect
 
 ### Mobile Bloom Effect
-
 
 
 # Reference
